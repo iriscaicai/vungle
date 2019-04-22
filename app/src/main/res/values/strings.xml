@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VungleDemoo</string>
+
+    <string name="load_insert">LOAD INSERT</string>
+    <string name="show_insert">SHOW INSERT</string>
+    <string name="load_infeed">LOAD INFEET</string>
+    <string name="show_infeet">SHOW INFEET</string>
+</resources>
